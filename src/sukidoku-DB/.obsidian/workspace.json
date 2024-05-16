@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "59c3433657dfe4b6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0130efa776c82e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8c621839b74f5716",
         "type": "tabs",
         "children": [
@@ -29,11 +11,28 @@
             "id": "afb064e7b89df23f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1th_anime/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62052b17e0c2fd20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1th_anime/_notes/Anchoko.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "1th_anime/_notes/Anchoko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "1th_anime/_notes/Anchoko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "1th_anime/_notes/Anchoko.md"
               }
             }
           }
@@ -160,14 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b3dedcdec46278a",
+  "active": "62052b17e0c2fd20",
   "lastOpenFiles": [
+    "Home.md",
+    "1th_anime/_notes/Anchoko.md",
+    "[[Anchoko]].md",
+    "Untitled/Untitled.md",
+    "1th_anime/_notes",
+    "Screenshot 2024-05-15 at 14.52.20.png",
+    "1th_anime/images/2024-05-16-11-22-02.png",
+    "1th_anime/index.md",
+    "1th_anime/images/Screenshot 2024-05-16 at 11.22.02.png",
+    "1th_anime/images/2024-05-16-11-13-56.png",
+    "1th_anime/images/2024-05-16-11-08-38.png",
+    "1th_anime/images/Screenshot 2024-05-16 at 11.13.56.png",
+    "1th_anime/images/Screenshot 2024-05-16 at 11.08.38.png",
     "1th_anime/images/2024-05-15-15-24-37.png",
     "1th_anime/images/2024-05-15-15-24-37 copy.png",
     "1th_anime/images",
-    "1th_anime/index.md",
-    "1th_anime",
-    "Screenshot 2024-05-15 at 14.52.20.png",
-    "Welcome.md"
+    "1th_anime"
   ]
 }
